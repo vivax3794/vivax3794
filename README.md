@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome
+I am vivax3794 (or just vivax, but that name was taken :sob: )
 
-<!--
-**vivax3794/vivax3794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a python programmer, currently I am working on some random side project I will forget about, as usual.
 
-Here are some ideas to get you started:
+You can contact me on discord, `vivax#7908` (maybe I should get nitro just to change that :P )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a moderator on the [python discord](https://pythondiscord.com/)
+
+I am also the owner of a discord server aimed at tech streamers and those who likes to watch them, we could use some more memebers xD
+<https://discord.gg/wCXYuT9>
+
+on this profile you will find a bunch of old projecs I should remove :P
