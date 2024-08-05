@@ -15,11 +15,6 @@
 [![Website](https://img.shields.io/github/stars/vivax3794/ComfyUI-Sub-Nodes?style=for-the-badge&label=ComfyUI-Sub-Nodes&logo=github)](https://github.com/vivax3794/ComfyUI-Sub-Nodes/)
 
 ## 💻 Tech Stack:
-![Javascript](https://img.shields.io/badge/Javascript-darkorange?logo=Javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-darkorange?logo=typescript)
-![html5](https://img.shields.io/badge/html5-darkorange?logo=html5)
-![css3](https://img.shields.io/badge/css3-darkorange?logo=css3)
-
 ![Rust](https://img.shields.io/badge/Rust-darkred?logo=rust)
 ![Bevy](https://img.shields.io/badge/Bevy-darkred?logo=bevy)
 ![Leptos](https://img.shields.io/badge/Leptos-darkred?logo=leptos)
@@ -28,6 +23,11 @@
 ![Egui](https://img.shields.io/badge/Egui-darkred)
 ![Tauri](https://img.shields.io/badge/Tauri-darkred?logo=tauri)
 ![Inkwell](https://img.shields.io/badge/Inkwell-darkred?logo=llvm)
+
+![Javascript](https://img.shields.io/badge/Javascript-darkorange?logo=Javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-darkorange?logo=typescript)
+![html5](https://img.shields.io/badge/html5-darkorange?logo=html5)
+![css3](https://img.shields.io/badge/css3-darkorange?logo=css3)
 
 ![vue.js](https://img.shields.io/badge/vue.js-darkgreen?logo=vuedotjs)
 ![Vueitfy](https://img.shields.io/badge/Vueitfy-darkgreen?logo=vuetify)
