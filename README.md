@@ -12,7 +12,9 @@
 ## 📝 Notable Projects
 [![Website](https://img.shields.io/badge/Spinny_Jumper-17%2F82-blue?style=for-the-badge&labelColor=gray&logo=itch.io)](https://vivax.itch.io/spinny-jumper)
 
-[![Website](https://img.shields.io/github/stars/vivax3794/ComfyUI-Sub-Nodes?style=for-the-badge&label=ComfyUI-Sub-Nodes&logo=github)](https://github.com/vivax3794/ComfyUI-Sub-Nodes/)
+[![Sub Nodes](https://img.shields.io/github/stars/vivax3794/ComfyUI-Sub-Nodes?style=for-the-badge&label=ComfyUI-Sub-Nodes&logo=github)](https://github.com/vivax3794/ComfyUI-Sub-Nodes/)
+
+[![Tic Tac toe](https://img.shields.io/github/stars/vivax3794/github_games?style=for-the-badge&label=TicTacToe&logo=github)](https://github.com/vivax3794/github_games/)
 
 ## 💻 Tech Stack:
 ![Rust](https://img.shields.io/badge/Rust-darkred?logo=rust)
