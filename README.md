@@ -48,7 +48,7 @@
 ![LLVM](https://img.shields.io/badge/LLVM-darkmagenta?logo=llvm)
 
 ![Postgres](https://img.shields.io/badge/PostgresSQL-yellow?logo=postgresql)
-![MonogDB](https://img.shields.io/badge/MonogDB-yellow?logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-yellow?logo=mongodb)
 
 ![Comfyui](https://img.shields.io/badge/ComfyUI-darkblue)
 ![Cloudflare-Ai](https://img.shields.io/badge/Cloudflare_Workers_Ai-darkblue?logo=Cloudflare&logoColor=white)
