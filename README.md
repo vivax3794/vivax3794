@@ -11,11 +11,13 @@
 
 ## 📝 Notable Projects
 
-[![Sub Nodes](https://img.shields.io/github/stars/vivax3794/ComfyUI-Sub-Nodes?style=for-the-badge&label=ComfyUI-Sub-Nodes&logo=github)](https://github.com/vivax3794/ComfyUI-Sub-Nodes/)
+[![Natrix](https://img.shields.io/github/stars/vivax3794/Natrix?style=for-the-badge&label=Natrix&logo=github)](https://github.com/vivax3794/Natrix/)
 
 [![error_mancer](https://img.shields.io/github/stars/vivax3794/error_mancer?style=for-the-badge&label=error_mancer&logo=github)](https://github.com/vivax3794/error_mancer/)
 
 [![Spinny Jumper](https://img.shields.io/badge/Spinny_Jumper-17%2F82-blue?style=for-the-badge&labelColor=gray&logo=itch.io)](https://vivax.itch.io/spinny-jumper)
+
+[![Sub Nodes](https://img.shields.io/github/stars/vivax3794/ComfyUI-Sub-Nodes?style=for-the-badge&label=ComfyUI-Sub-Nodes&logo=github)](https://github.com/vivax3794/ComfyUI-Sub-Nodes/)
 
 ## 💻 Tech Stack:
 ![Rust](https://img.shields.io/badge/Rust-darkred?logo=rust)
