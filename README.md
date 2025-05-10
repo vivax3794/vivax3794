@@ -3,11 +3,9 @@
 # I am viv :P
 
 [![Website](https://img.shields.io/badge/Website-vivax.dev-blue?style=for-the-badge&color=purple&)](https://vivax.dev/)
-[![Major](https://img.shields.io/badge/Major-CS-darkcyan?style=for-the-badge)](https://uit.no/utdanning/program/446220/datateknikk_ingenior_-_bachelor_nettbasert)
 
 ![Pronouns](https://img.shields.io/badge/Pronouns-they%2Fshe%2Fhe-darkred?style=for-the-badge&labelColor=red)
 ![Age](https://img.shields.io/badge/Age-19-darkgreen?style=for-the-badge&labelColor=green)
-[![Uni](https://img.shields.io/badge/Univeristy-UiT-darkblue?style=for-the-badge&labelColor=blue)](https://uit.no/)
 
 ## 📝 Notable Projects
 
