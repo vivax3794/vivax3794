@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-vivax.dev-blue?style=for-the-badge&color=purple&)](https://vivax.dev/)
 
 ![Pronouns](https://img.shields.io/badge/Pronouns-they%2Fshe%2Fhe-darkred?style=for-the-badge&labelColor=red)
-![Age](https://img.shields.io/badge/Age-19-darkgreen?style=for-the-badge&labelColor=green)
+![Age](https://img.shields.io/badge/Age-20-darkgreen?style=for-the-badge&labelColor=green)
 
 ## 📝 Notable Projects
 
@@ -15,12 +15,10 @@
 
 [![Spinny Jumper](https://img.shields.io/badge/Spinny_Jumper-17%2F82-blue?style=for-the-badge&labelColor=gray&logo=itch.io)](https://vivax.itch.io/spinny-jumper)
 
-[![Sub Nodes](https://img.shields.io/github/stars/vivax3794/ComfyUI-Sub-Nodes?style=for-the-badge&label=ComfyUI-Sub-Nodes&logo=github)](https://github.com/vivax3794/ComfyUI-Sub-Nodes/)
 
 ## 💻 Tech Stack:
 ![Rust](https://img.shields.io/badge/Rust-darkred?logo=rust)
 ![Bevy](https://img.shields.io/badge/Bevy-darkred?logo=bevy)
-![Leptos](https://img.shields.io/badge/Leptos-darkred?logo=leptos)
 ![Rocket](https://img.shields.io/badge/Rocket-darkred?logo=rocket)
 ![SQLx](https://img.shields.io/badge/sqlx-darkred)
 ![Egui](https://img.shields.io/badge/Egui-darkred)
